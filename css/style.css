@@ -1,0 +1,36 @@
+body{
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #FABE4C;
+}
+h1 span{
+    color: #363958;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+.logo-edit img{
+    width: 270px;
+}
+.header-penguin-part img{
+    width: 80%;
+}
+.woman-jacket{
+    border: 0;
+}
+.woman-jacket-bg{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+.woman-jacket img{
+    width: 300px;
+    height: 300px;
+}
+.woman-jacket-footer{
+    border: 0;
+    background-color: white;
+}
