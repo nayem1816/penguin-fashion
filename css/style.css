@@ -19,6 +19,9 @@ h5{
     font-weight: bold;
     font-size: 25px;
 }
+h5 span{
+    color: #FABE4C;
+}
 p{
     font-family: 'Roboto', sans-serif;
     color: #3E3E3E;
